@@ -54,5 +54,4 @@
 
 #### 　能够熟练阅读英文文档，能使用 Stack Overflow 解决相关问题
 
-#### 　热爱前端， 能够持续学习前端 ([freeCodeCamp 328题](https://www.freecodecamp.cn/jianglinghao))
-
+#### 　热爱前端， 能够持续学习前端 
