@@ -18,7 +18,7 @@
 * JavaScript: 通读了《Eloquent JavaScript》
 
     * 理解js原型， 闭包， 高阶， 异步等概念， 理解Promise
-    * 熟悉DOM原生API， 熟悉jQuery API， 尝试实现过部分jQuery方法， 尝试实现了简版的jQuery
+    * 熟悉DOM原生API， 熟悉jQuery API， 尝试实现过部分jQuery方法
     * 实现了Lodash一半以上的函数
     * 实现了一个基础的JSONParser
     * 熟练使用Chrome-devtools 等调试工具 
