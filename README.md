@@ -37,7 +37,8 @@
 
 * HTTP：  
     * 了解计算机网络的基本原理， DNS， 端口
-    * 了解HTTP协议的机制    
+    * 了解HTTP协议的机制   
+     
 ## 计算机基础
 
 * 了解基础的编码知识如Base64， UTF-8， 浮点数等的表示
@@ -53,5 +54,5 @@
 
 #### 　能够熟练阅读英文文档，能使用 Stack Overflow 解决相关问题
 
-#### 　热爱前端， 能够持续学习前端。
+#### 　热爱前端， 能够持续学习前端 ([freeCodeCamp 328题](https://www.freecodecamp.cn/jianglinghao))
 
