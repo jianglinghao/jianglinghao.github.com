@@ -38,7 +38,7 @@
     * 了解基础的编码知识如 Base64，UTF-8 等的表示
 
 * 前端框架： 熟悉 Vue， 了解 React
-    * 使用 Vue 实现[单页词典]()， 支持搜索自动完成，发音，生词表等功能
+    * 使用 Vue 实现[单页词典](https://github.com/jianglinghao/JavaScript/tree/master/Vue-dictionary)， 支持搜索自动完成，发音，生词表等功能
 
 * 了解前端工程化，模块化开发，打包部署上线等
 
